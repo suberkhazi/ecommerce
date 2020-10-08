@@ -1,4 +1,4 @@
-ecommerce
+ecommerce web app.
 =========
 
 **Note: This project is no longer being maintained.**
